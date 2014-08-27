@@ -1,0 +1,14 @@
+[vc_row no_margin="true" padding_top="130px" padding_bottom="130px" border="none" inner_container="true" bg_image="3203" parallax="true"]
+    [vc_column width="1/6"]
+      [gap size="1.313em"]
+    [/vc_column]
+  [vc_column width="2/3"]
+    [text_output]
+    <h1 style="color: #ffffff; margin: 0 0 0 0.1em; font-weight: bold; text-align: center;">Life Groups</h1>
+    <h3 style="color: #ffffff; margin: 0.2em 0 0 0; font-weight: 500; text-align: center;">Get Connected</h3>
+    [/text_output]
+  [/vc_column]
+  [vc_column width="1/6"]
+    [gap size="1.313em"]
+  [/vc_column]
+[/vc_row]
